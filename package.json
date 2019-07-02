@@ -1,7 +1,6 @@
 {
-  "name": "agora-react-app-skeleton",
+  "name": "agora-react-app-starter",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@material-ui/core": "^4.0.2",
     "@material-ui/icons": "^4.1.0",
@@ -38,12 +37,12 @@
     ]
   },
   "devDependencies": {
+    "chalk": "^2.4.2",
+    "shelljs": "^0.8.3",
     "@types/agora-rtc-sdk": "^2.6.0",
     "@types/jest": "24.0.13",
     "@types/node": "12.0.7",
     "@types/react": "16.8.19",
-    "@types/react-dom": "16.8.4",
-    "chalk": "^2.4.2",
-    "shelljs": "^0.8.3"
+    "@types/react-dom": "16.8.4"
   }
 }
